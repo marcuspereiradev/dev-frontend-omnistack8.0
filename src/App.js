@@ -2,11 +2,11 @@ import React from 'react';
 
 import './App.scss';
 
-import Login from './pages/Login';
+import Routes from './Routes';
 
 function App() {
   return (
-    <Login />
+    <Routes />
   );
 }
 
