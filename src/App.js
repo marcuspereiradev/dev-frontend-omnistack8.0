@@ -1,12 +1,12 @@
 import React from 'react';
 
-import './App.css';
+import './App.scss';
+
+import Login from './pages/Login';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Opa</h1>
-    </div>
+    <Login />
   );
 }
 
