@@ -65,4 +65,11 @@
       }
     }
   }
+
+  .empty {
+    color: $placeholder-custom-color;
+    font-size: 3em;
+    height: 100%;
+    margin-top: 300px;
+  }
 }
